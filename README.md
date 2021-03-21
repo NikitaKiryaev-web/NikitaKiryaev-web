@@ -7,6 +7,7 @@
 
 ## 🚀Мой стек:
 
+<p>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' height=25 alt='HTML5'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' height=25 alt='CSS3'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' height=25 alt='JavaScript'>
@@ -16,7 +17,7 @@
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png' height=25 alt='WebPack'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png' height=25 alt='Node.js'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png' height=25 alt='Express'>
-
+</p>
 ## Статистика
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaKiryaev-web&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
