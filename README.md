@@ -22,3 +22,6 @@
 ## Статистика
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaKiryaev-web&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Моя статистика на CodeWars
+[![codewars](https://www.codewars.com/users/nickname712/badges/large)](https://www.codewars.com/users/nickname712)
